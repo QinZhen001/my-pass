@@ -1,7 +1,7 @@
 {
   "name": "my-pass",
-  "version": "1.0.0",
-  "description": "TODO:  * 插件化方案 * mobx * pnpm （Monorepo）",
+  "version": "0.0.1",
+  "description": "pass",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
